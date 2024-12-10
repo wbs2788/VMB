@@ -1,4 +1,4 @@
-# 🎬🎵<img src="imgs/bridge.png" style="zoom:30%;" /> VMB
+# 🎬🎵<img src="imgs/bridge.png" alt="pyramid" height="30"/> VMB
 
 [[arXiv]](https://arxiv.org/abs/)
 
