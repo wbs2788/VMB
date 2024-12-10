@@ -1,8 +1,21 @@
 # 🎬🎵 VMB
 
-[[Arxiv]](https://arxiv.org/abs/)
+[[arXiv]](https://arxiv.org/abs/)
 
 Code for our paper "Multimodal Music Generation with Explicit Bridges and Retrieval Augmentation" 
+
+
+
+
+
+
+## 📅 Schedule
+
+* [ ] video-music dataset
+* [ ] pretrained model weights
+* [ ] inference code
+* [ ] evaluation code
+* [ ] training code
 
 
 
@@ -16,8 +29,6 @@ Code for our paper "Multimodal Music Generation with Explicit Bridges and Retrie
 * Introduces a Multimodal Music Description Model, Dual-track Music Retrieval, and Explicitly Conditioned Music Generation for enhanced quality and control.
 
 * Demonstrates state-of-the-art performance in video-to-music, image-to-music, and controllable music generation tasks.
-
-
 
 <p align="center">
 <img src="imgs/overview.png" alt="ouip" width="100%"/> 
@@ -36,11 +47,11 @@ We introduce a novel method named Visuals Music Bridge (VMB). Specifically, a Mu
 
 ## 🔍 Method
 
-1. Multimodal Music Description Model (MMDM)
+Multimodal Music Description Model (MMDM)
 
 ![](imgs/mmdm.png)
 
-2. Dual-track Music Retrieval and Explicitly Conditioned Music Generation
+Dual-track Music Retrieval and Explicitly Conditioned Music Generation
 
 ![](imgs/dmr_ecmg.jpg)
 
