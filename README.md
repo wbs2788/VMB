@@ -1,4 +1,4 @@
-# 🎬🎵 VMB
+# 🎬🎵<img src="/Users/wzk/Library/Mobile Documents/com~apple~CloudDocs/Documents/doc/workplace/research/Music/VMB/VMB_repo/imgs/bridge.png" style="zoom:15%;" /> VMB
 
 [[arXiv]](https://arxiv.org/abs/)
 
