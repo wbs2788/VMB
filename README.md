@@ -1,6 +1,6 @@
 # 🎬🎵<img src="imgs/bridge.png" alt="pyramid" height="30"/> VMB
 
-[[arXiv]](https://arxiv.org/abs/)
+[[[arXiv]](https://arxiv.org/abs/)](https://arxiv.org/abs/2412.09428)
 
 Code for our paper "Multimodal Music Generation with Explicit Bridges and Retrieval Augmentation" 
 
