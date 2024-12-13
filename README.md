@@ -6,16 +6,19 @@ Code for our paper "Multimodal Music Generation with Explicit Bridges and Retrie
 
 
 
+We will release our code soon.
+
 
 
 
 ## 📅 Schedule
 
-* [ ] video-music dataset
-* [ ] pretrained model weights
-* [ ] inference code
-* [ ] evaluation code
-* [ ] training code
+* [ ] Video-music demos
+* [ ] Video-music dataset
+* [ ] Pretrained model weights
+* [ ] Inference code
+* [ ] Evaluation code
+* [ ] Training code
 
 
 
@@ -76,8 +79,11 @@ This project is released under the MIT license.
 If you find this work helpful for your research, please consider giving this repo a star ⭐ and citing our paper:
 
 ```bibtex
-@article{
-  TODO
+@article{vmb,
+  title={Multimodal Music Generation with Explicit Bridges and Retrieval Augmentation},
+  author={Wang, Baisen and Zhuo, Le and Wang, Zhaokai and Bao, Chenxi and Wu, Chengjing and Nie, Xuecheng and Dai, Jiao and Han, Jizhong and Liao, Yue and Liu, Si},
+  journal={arXiv preprint arXiv:2412.09428},
+  year={2024}
 }
 ```
 
