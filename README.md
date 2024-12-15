@@ -21,17 +21,19 @@ We will release our code soon.
 * [ ] Training code
 
 
+## 🎵 Demos
 
+TODO
 
 ## ⭐️ Highlights
 
-**TL;DR:** We present Visuals Music Bridge (VMB), a novel framework for multimodal music generation by using text and music as explicit bridges to address challenges in data scarcity, cross-modal alignment, and controllability. VMB significantly improves music quality, modality alignment, and customization across tasks like video-to-music and image-to-music generation.
+**TL;DR:** We present Visuals Music Bridge (VMB), a novel framework for **multimodal music generation** by using text and music as explicit bridges to address challenges in data scarcity, cross-modal alignment, and controllability. VMB significantly improves music quality, modality alignment, and customization across tasks like video-to-music, image-to-music and text-to-music generation and controllable music generation.
 
-* Proposes explicit text and music bridges for better multimodal alignment, leveraging detailed textual descriptions and retrieval-augmented generation.
+* Proposes **explicit text and music bridges** for better multimodal alignment, leveraging detailed textual descriptions and retrieval-augmented generation.
 
 * Introduces a Multimodal Music Description Model, Dual-track Music Retrieval, and Explicitly Conditioned Music Generation for enhanced quality and control.
 
-* Demonstrates state-of-the-art performance in video-to-music, image-to-music, and controllable music generation tasks.
+* Demonstrates state-of-the-art performance in **video-to-music**, **image-to-music**, **text-to-music**, and **controllable music generation** tasks.
 
 <p align="center">
 <img src="imgs/overview.png" alt="ouip" width="100%"/> 
@@ -59,7 +61,9 @@ Dual-track Music Retrieval and Explicitly Conditioned Music Generation
 ![](imgs/dmr_ecmg.jpg)
 
 
+## 📊 Dataset
 
+TODO
 
 ## 🛠️ Usage
 
@@ -87,3 +91,8 @@ If you find this work helpful for your research, please consider giving this rep
 }
 ```
 
+## 📚 See Also
+
+Our previous papers on video-to-music generation:
+ * [MusProd (ICCV 2023)](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhuo_Video_Background_Music_Generation_Dataset_Method_and_Evaluation_ICCV_2023_paper.pdf)
+ * [CMT (ACM MM 2021 Best Paper Award)](https://github.com/wzk1015/video-bgm-generation)
