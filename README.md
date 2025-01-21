@@ -6,11 +6,15 @@
 
 Code for our paper ["Multimodal Music Generation with Explicit Bridges and Retrieval Augmentation"]((https://arxiv.org/abs/2412.09428))
 
-Video demos are available on the [project page](https://wzk1015.github.io/vmb/).
-
 
 
 We will release our code soon.
+
+
+
+## 🎵 Demos
+
+Video-to-music demos are available on the [project page](https://wzk1015.github.io/vmb/).
 
 
 
@@ -26,9 +30,6 @@ We will release our code soon.
 * [ ] Training code
 
 
-## 🎵 Demos
-
-TODO
 
 ## ⭐️ Highlights
 
