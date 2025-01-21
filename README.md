@@ -1,8 +1,12 @@
 # 🎬🎵<img src="imgs/bridge.png" alt="pyramid" height="30"/> VMB
 
-<a href="https://arxiv.org/abs/2412.09428" target="_blank"><img src="https://camo.githubusercontent.com/05dcf3efb4ac1aa282c7f597e86280ad41f456d49a314279554deb6f88562490/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f25463025394625393325384525323061725869762d50617065722d726564" alt="arXiv" height="20"/></a>
+[[Paper]](https://arxiv.org/abs/2412.09428) [[Demos]](https://wzk1015.github.io/vmb/)
 
-Code for our paper "Multimodal Music Generation with Explicit Bridges and Retrieval Augmentation" 
+
+
+Code for our paper ["Multimodal Music Generation with Explicit Bridges and Retrieval Augmentation"]((https://arxiv.org/abs/2412.09428))
+
+Video demos are available on the [project page](https://wzk1015.github.io/vmb/).
 
 
 
@@ -13,7 +17,8 @@ We will release our code soon.
 
 ## 📅 Schedule
 
-* [ ] Video-music demos
+* [x] Video-to-music demos
+* [ ] Text-to-music and image-to-music demos
 * [ ] Video-music dataset
 * [ ] Pretrained model weights
 * [ ] Inference code
